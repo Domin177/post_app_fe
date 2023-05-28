@@ -1,4 +1,5 @@
-At first is necessary to install NODE JS.\
+At first is necessary to install Node.js\
+During development was used version of Node.js v16.14.2\
 Then in the project directory, you can run:
 
 ### `npm start`
